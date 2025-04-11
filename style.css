@@ -95,7 +95,6 @@ footer a {
     
 }
   
-  /* Main Section Styles */
 main {
     padding: 40px 20px;
 }
@@ -128,7 +127,6 @@ img {
     border-radius: 10px;
 }
   
-  /* Cards for Each Place (e.g., Rio, Amazon, Iguaçu, Salvador) */
   .place-card {
     background-color: #fff;
     padding: 20px;
@@ -154,8 +152,7 @@ img {
     color: #666;
   }
   
-  /* Form Section */
-  .form-section {
+      .form-section {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
@@ -250,7 +247,6 @@ img {
     }
   }
   
-  /* Table Styles */
   table {
     width: 100%;
     border-collapse: collapse;
@@ -282,7 +278,6 @@ img {
     margin-bottom: 0.5rem;
   }
   
-  /* Mobile Optimization */
   @media only screen and (max-width: 600px) {
     .navbar a {
       font-size: 14px;
